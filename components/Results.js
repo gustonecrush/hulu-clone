@@ -1,7 +1,14 @@
 import React from "react";
+import Thumbnail from "./Thumbnail";
 
 function Results({ requests }) {
-  return <div>Results</div>;
+  return (
+    <div>
+      {requests.map((result, index) => (
+        <Thumbnail key={index} data={result} />
+      ))}
+    </div>
+  );
 }
 
 export default Results;
