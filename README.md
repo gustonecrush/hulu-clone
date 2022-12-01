@@ -17,10 +17,3 @@ If you want to run in your local do the steps below :
 <img src="https://i.postimg.cc/j5vFFSPh/Screen-Shot-2022-12-01-at-23-12-36.png" style="height: 250px" />
 </div>
 
-## TOOLS
-<div style="display: flex">
-<img src="https://i.postimg.cc/mg1L70CD/next-js-logo-7929-BCD36-F-seeklogo-com.png" style="height: 60px" />
-<img src="https://i.postimg.cc/TYFG2CFX/tailwind-css-logo.png" style="height: 60px" />
-</div>
-
-
