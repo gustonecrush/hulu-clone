@@ -10,7 +10,7 @@ export default function Home({ results }) {
     <div className="">
       <Head>
         <title>Hulu Clone</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.ico.png" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link
