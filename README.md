@@ -17,5 +17,8 @@ If you want to run in your local do the steps below :
 <img src="https://i.postimg.cc/j5vFFSPh/Screen-Shot-2022-12-01-at-23-12-36.png" style="height: 300px" />
 </div>
 
+## LINK
+<a href="https://hulu-clone-psi-henna.vercel.app/">Hulu Clone</a>
+
 
 
