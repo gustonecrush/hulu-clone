@@ -13,8 +13,8 @@ If you want to run in your local do the steps below :
 ## RESULT
 
 <div style="display: flex">
-<img src="https://i.postimg.cc/vHmsMpmB/Screen-Shot-2022-12-01-at-23-12-48.png" style="height: 200px" />
-<img src="https://i.postimg.cc/j5vFFSPh/Screen-Shot-2022-12-01-at-23-12-36.png" style="height: 200px" />
+<img src="https://i.postimg.cc/D0XYydRx/Screen-Shot-2022-12-01-at-23-16-06.png" style="height: 300px" />
+<img src="https://i.postimg.cc/j5vFFSPh/Screen-Shot-2022-12-01-at-23-12-36.png" style="height: 300px" />
 </div>
 
 
